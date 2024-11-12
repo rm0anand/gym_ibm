@@ -12,8 +12,8 @@ This project was completed during my internship at IBM, focusing on TypeScript a
 
 ## Technologies
 
-- **Frontend:** HTML, CSS, TypeScript
-- **Backend:** Node.js, Express (or any backend specifics if applicable)
+- **Frontend:** HTML, tailwind CSS, TypeScript,vite
+- **Backend:** Node.js
 - **Deployment:** Deployed on [Cloudflare Pages](https://gym-anand.pages.dev/)
 
 ## Setup
