@@ -15,19 +15,21 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the Art Facilities",
     description:
-      "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et.",
+      "Our facilities combine cutting-edge equipment with modern, spacious layouts designed to enhance your training experience. From cardio zones to free weights and functional training areas, everything is meticulously curated to help you excel.",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
     title: "100's of Diverse Classes",
     description:
-      "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
+      "Choose from a wide variety of classes tailored to meet diverse fitness goals and interests. Whether you're into high-intensity workouts, yoga, dance, or strength training, our schedules accommodate everyone from beginners to fitness veterans.
+
+",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Expert and Pro Trainers",
     description:
-      "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
+      "Our trainers are top professionals, each selected for their expertise and dedication to helping members reach their peak. They provide personalized guidance and motivation, ensuring your workouts are safe, effective, and enjoyable.",
   },
 ];
 
@@ -131,18 +133,10 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+                With thousands of members transforming their lives, we’re more than just a gym—we’re a fitness community. Our members experience results, growth, and empowerment every day through our expertly guided programs, world-class facilities, and supportive environment.
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+                Our trainers and staff are here to support you at every step. Whether you’re aiming for weight loss, strength, flexibility, or endurance, we provide the resources and motivation you need to achieve lasting results. Ready to be part of something great? Join millions who are building healthier, stronger lives every day.
               </p>
             </motion.div>
 
