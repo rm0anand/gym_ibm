@@ -15,21 +15,19 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the Art Facilities",
     description:
-      "Our facilities combine cutting-edge equipment with modern, spacious layouts designed to enhance your training experience. From cardio zones to free weights and functional training areas, everything is meticulously curated to help you excel.",
+      "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et.",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
     title: "100's of Diverse Classes",
     description:
-      "Choose from a wide variety of classes tailored to meet diverse fitness goals and interests. Whether you're into high-intensity workouts, yoga, dance, or strength training, our schedules accommodate everyone from beginners to fitness veterans.
-
-",
+      "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Expert and Pro Trainers",
     description:
-      "Our trainers are top professionals, each selected for their expertise and dedication to helping members reach their peak. They provide personalized guidance and motivation, ensuring your workouts are safe, effective, and enjoyable.",
+      "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
   },
 ];
 
